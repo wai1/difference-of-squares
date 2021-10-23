@@ -1,5 +1,7 @@
 # Difference Of Squares
 
+Please note: I wrote the difference_of_squares.cpp and difference_of_squares.h files. I did not write difference_of_squares_test.cpp file. Thanks, Walt
+
 Find the difference between the square of the sum and the sum of the squares of the first N natural numbers.
 
 The square of the sum of the first ten natural numbers is
